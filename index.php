@@ -18,7 +18,5 @@ if (!isset($_GET['type'])) {
     $chosen = $programmer_types[$_GET['type']];
     $chosen['type'] = $_GET['type'];
 }
-
-var_dump($chosen);
 // Render a template
 echo $templates->render('main', $chosen);
