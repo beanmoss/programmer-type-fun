@@ -2,7 +2,7 @@
 <head>
   <?php $root_url = 'http://rrluna.com/programmer-type-fun'?>
   <title><?=$this->e($title)?></title>
-  <meta property="og:url"         content="<?=$this->e($url).'?type=$this->e($type)'?>" />
+  <meta property="og:url"         content="<?=$this->e($url).'?type='.$this->e($type)?>" />
   <meta property="fb:app_id"         content="312923542405324" />
   <!-- <meta property="og:type"        content="article" /> -->
   <meta property="og:title"       content="<?=$this->e($title)?>" />
