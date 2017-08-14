@@ -2,6 +2,7 @@
 <head>
   <title><?=$this->e($title)?></title>
   <meta property="og:url"         content="<?=$this->e($url)?>" />
+  <meta property="fb:app_id"         content="312923542405324" />
   <!-- <meta property="og:type"        content="article" /> -->
   <meta property="og:title"       content="<?=$this->e($title)?>" />
   <meta property="og:description" content="<?=$this->e($description)?>" />
