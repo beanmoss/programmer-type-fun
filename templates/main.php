@@ -6,6 +6,9 @@
   <meta property="og:title"       content="<?=$this->e($title)?>" />
   <meta property="og:description" content="<?=$this->e($description)?>" />
   <meta property="og:image"       content="<?=$this->e($image)?>" />
+  <meta property="og:image"       content="<?=$this->e($image)?>" />
+  <meta property="og:image:width"       content="600" />
+  <meta property="og:image:height"       content="315" />
 
 </head>
 <body>
