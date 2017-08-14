@@ -1,16 +1,56 @@
 [{
-    "title": "The community leader",
+    "title": "The community leader.",
     "description": "Loves taking selfies. Present at every programming meetup.",
-    "url": "/",
+    "url": "http://rrluna.com/programmer-type-fun",
     "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_02.png"
 },{
-    "title": "The anal syntax Nazi",
+    "title": "The anal syntax Nazi.",
     "description": "Has well organized working space!. Involved in every programming flame war.",
-    "url": "/",
+    "url": "http://rrluna.com/programmer-type-fun",
     "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_03.png"
 },{
-    "title": "type1",
-    "description": "description2",
-    "url": "/",
+    "title": "The inept outsourced coder.",
+    "description": "Stores passwords as plain text in a public repository. Writes code so bad you'll have to rewrite it anyway. Disappears at convenient times.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_04.png"
+},{
+    "title": "The new thing evangelist.",
+    "description": "Can't stand Java, but forced to use it at work. Refreshes Hacker News every five minutes. Also knows Go, Scala and Julia.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_05.png"
+},{
+    "title": "The open source wizard.",
+    "description": "Always speaking at programmer conferences. Has 10 popular repositories and hundreds of pushes on Github",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_06.png"
+},{
+    "title": "The Sage.",
+    "description": "Has more monitors in office than anyone. Knows 5 programming languages and wrote books on all of them. Accepts selfie requests from fans reluctantly. Costs 10x more than average coder to hire.",
+    "url": "http://rrluna.com/programmer-type-fun",
     "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_07.png"
+},{
+    "title": "The Data Scientist.",
+    "description": "Speaks a language alien to most programmers. Uses Python or R. Has a PhD or Master's in something.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_08.png"
+},{
+    "title": "The NOOB.",
+    "description": "Paid thousands to attend programming bootcamps. Dependent on the open source wizard. Learned to code because it's hip. Likely won't get a job in programming",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_09.png"
+},{
+    "title": "The Security Expert.",
+    "description": "Knows every blackhat trick. Hacks into systems as a hobby. Uses Ghostery and a VPN to hide his tracks. Feared by everyone.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_10.png"
+},{
+    "title": "The Hipster coder.",
+    "description": "Secretly wants to be Steve Jobs. Probably codes in Javascript or Swift with hi M*cbook. Owns a sous vide machine at home.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_11.png"
+},{
+    "title": "The Struggling Project Manager.",
+    "description": "Hated by his subordinates. Became a manager because it's prestigious. Picked engineering as the last option in college.",
+    "url": "http://rrluna.com/programmer-type-fun",
+    "image": "https://cdn.techinasia.com/wp-content/uploads/2016/09/11-type-programmers_12.png"
 }]
