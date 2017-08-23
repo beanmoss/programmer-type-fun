@@ -6,7 +6,7 @@
   <meta property="fb:app_id"         content="312923542405324" />
   <!-- <meta property="og:type"        content="article" /> -->
   <meta property="og:title"       content="<?=$this->e($title)?>" />
-  <meta property="og:description" content="<?=$this->e($description)?>" />
+  <meta property="og:description" content="<?=$_SERVER['REMOTE_ADDR'] . $this->e($description)?>" />
   <meta property="og:image"       content="<?=$root_url . $this->e($image)?>" />
   <meta property="og:image:width"       content="600" />
   <meta property="og:image:height"       content="315" />
